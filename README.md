@@ -2,7 +2,7 @@
 
 ## Hallo Hallo, this is CJ! 🍨👋
 
-「 I've got a hundred absurd ideas, and none contributing worthy. 」
+「 I've got a hundred absurd ideas, and none's contributing worthy. 」
 
 - 📖 A Student taking Computer Science
 - ✨ Aspiring Full-Stack Developer
