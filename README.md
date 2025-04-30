@@ -1,10 +1,14 @@
 <!--- CURRENTLY IN CONSTRUCTION --->
 
-# HALLO HALLO 👋🍨
+## Hallo Hallo, this is CJ! 🍨👋
 
-<p> I'm CJ but you can call me SIEGE. </p>
-<p> Currently taking BS in Computer Science </p>
-<p> Aspiring Full-Stack Developer </p>
+「 I got 100 nonsensical ideas and none to contribute. 」
+
+- 📖 A Student taking Computer Science
+- ✨ Aspiring Full-Stack Developer
+- 🌱 Currently using `.py` `.tsx`
+- 🎨 Learning about UIUX Design 
+- ⚡ Worst Hwoarang Player
 
 <!---
 ctrl-siege/ctrl-siege is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
