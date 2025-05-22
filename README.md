@@ -7,7 +7,7 @@
 - 📖 A Student taking Computer Science
 - ✨ Aspiring Full-Stack Developer
 - 🌱 Currently using `.py` `.tsx`
-- 🎨 Learning about UIUX Design 
+- 🎨 Still learning about UI/UX, NMT, and NLP tasks
 - ⚡ Worst Hwoarang Player
 
 <!---
