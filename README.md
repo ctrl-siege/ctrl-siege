@@ -4,7 +4,6 @@
 
 「 I've got a hundred absurd ideas, and none's contributing worthy. 」
 
-- 📖 A Student taking Computer Science
 - ✨ Aspiring Full-Stack Developer
 - 🌱 Currently using `.py` `.tsx`
 - 🎨 Learning about NLP especially MT
