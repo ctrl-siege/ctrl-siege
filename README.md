@@ -2,11 +2,12 @@
 
 ## Hallo Hallo, this is CJ! 🍨👋
 
-「 I've got a hundred absurd ideas, and none's contributing worthy. 」
+「 Even if an idea is so niche, make what you're passionate about. 」
 
-- ✨ Aspiring Full-Stack Developer
+- ✨ Aspiring Full-Stack Web Developer
 - 🌱 Currently using `.py` `.tsx`
-- 🎨 Learning about NLP especially MT
+- 🎨 Researching about NLP Machine Translation 
+- 📝 Learning Other Languages
 - ⚡ Worst Hwoarang Player
 
 <!---
