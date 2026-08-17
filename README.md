@@ -6,7 +6,7 @@
 
 - ✨ Aspiring Full-Stack Web Developer
 - 🌱 Currently using `.py` `.tsx`
-- 🎨 Researching about NLP Machine Translation 
+- 🎨 Researching about Machine Translation and Digital Forensics
 - 📝 Learning Other Languages
 - ⚡ Worst Hwoarang Player
 
